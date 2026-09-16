@@ -8,9 +8,7 @@ import java.util.Scanner;
 /**
  *
  * @author DELL
- * I am going the changess
  */
-
 public class Hellof46 {
 
     public static void main(String[] args) {
