@@ -6,7 +6,7 @@ package com.mycompany.hellof46;
 import java.util.Scanner;
 
 /**
- *
+ *this comment is added to show push
  * @author DELL
  */
 public class Hellof46 {
