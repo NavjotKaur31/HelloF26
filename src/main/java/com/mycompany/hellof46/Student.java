@@ -33,5 +33,18 @@ public class Student {
         this.sName = sName;
     }
     
+    private String sAddress;
+
+    public String getsAddress() {
+        return sAddress;
+    }
+
+    public void setsAddress(String sAddress) {
+        this.sAddress = sAddress;
+    }
+
+  
+
     
+    }
 }
